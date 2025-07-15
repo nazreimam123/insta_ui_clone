@@ -1,16 +1,26 @@
-# insta_ui_clone
+# 📸 Insta UI Clone (Flutter)
 
-A new Flutter project.
+A beautiful Instagram UI clone built using **Flutter**, mimicking the core user interface and navigation of the Instagram mobile app. This project is created for educational and practice purposes.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📱 Splash screen with logo
+- 🔐 Login & Signup UI (Authorization)
+- 🏠 Home Feed UI with stories and post layout
+- 🔍 Search tab (placeholder)
+- ➕ Post tab (placeholder)
+- ❤️ Notifications tab with Following/You tabs
+- 👤 Profile tab (placeholder)
+- 💬 Chat page with fake messages
+- 🧭 Bottom Navigation Bar with persistent state using `IndexedStack`
+- 🎨 Custom icons, story borders, and Instagram-like font styles
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (UI toolkit)
+- **Dart** (Language)
+- `Material` & `Cupertino` Widgets
+- `Navigator`, `MaterialPageRoute`
+- `TabBar` & `BottomNavigationBar`
+- `IndexedStack` to preserve tab state
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
