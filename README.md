@@ -24,3 +24,8 @@ A beautiful Instagram UI clone built using **Flutter**, mimicking the core user 
 - `TabBar` & `BottomNavigationBar`
 - `IndexedStack` to preserve tab state
 
+## 📺 Demo
+
+Check out a short video preview of the app in action:
+
+▶️ [Watch on YouTube](https://youtube.com/shorts/5UYLmSzTuuk)
